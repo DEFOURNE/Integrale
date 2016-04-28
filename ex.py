@@ -1,1 +1,1 @@
-print "Je vais maintenant compter mes poulets:"
+print "Je vais maintenant compter mes poulets"
