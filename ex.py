@@ -1,1 +1,1 @@
-print "Je vais maintenant compter mes poulets"
+print "Je suis un test"
