@@ -1,1 +1,1 @@
-print "Je suis un test"
+print "Je suis un test !"
